@@ -15,7 +15,7 @@ export const missions: Mission[] = [
     date: "1977-09-05",
     agency: "NASA",
     description: "Launched to study the outer Solar System, it is the most distant human-made object from Earth.",
-    image: "https://picsum.photos/seed/voyager1/800/600",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-X12P4QY3mYFKliPHpulVEYXx9QdrJU8OA&s",
     outcome: "Ongoing",
   },
   {
@@ -23,7 +23,7 @@ export const missions: Mission[] = [
     date: "1990-04-24",
     agency: "NASA",
     description: "A space telescope that has revolutionized astronomy by providing deep and clear views into the cosmos.",
-    image: "https://picsum.photos/seed/hubble/800/600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/1200px-HST-SM4.jpeg",
     outcome: "Ongoing",
   },
   {
@@ -31,7 +31,7 @@ export const missions: Mission[] = [
     date: "1996-12-04",
     agency: "NASA",
     description: "Successfully deployed the Sojourner rover on Mars, the first wheeled vehicle to explore another planet.",
-    image: "https://picsum.photos/seed/pathfinder/800/600",
+    image: "https://cdn.mos.cms.futurecdn.net/M6YQH3QgA6VBB62Aw2m2H5-1200-80.jpg",
     outcome: "Success",
   },
   {
@@ -39,7 +39,7 @@ export const missions: Mission[] = [
     date: "2008-09-28",
     agency: "SpaceX",
     description: "The first privately developed liquid-fuel rocket to reach orbit, paving the way for the Falcon 9.",
-    image: "https://picsum.photos/seed/falcon1/800/600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Falcon_1_Flight_4_liftoff.jpg",
     outcome: "Success",
   },
   {
@@ -47,7 +47,7 @@ export const missions: Mission[] = [
     date: "2008-10-22",
     agency: "ISRO",
     description: "India's first lunar probe. It was instrumental in the discovery of water molecules on the Moon.",
-    image: "https://picsum.photos/seed/chandrayaan1/800/600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PSLV-C11_launch2.jpg/250px-PSLV-C11_launch2.jpg",
     outcome: "Partial Success",
   },
   {
@@ -55,7 +55,7 @@ export const missions: Mission[] = [
     date: "2013-11-05",
     agency: "ISRO",
     description: "India's first interplanetary mission, making ISRO the fourth space agency to reach Mars orbit.",
-    image: "https://picsum.photos/seed/mom/800/600",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEf-GQcZRlkm7aSXeIoBlDwknj_N0kHGR4A&s",
     outcome: "Success",
   },
   {
@@ -63,7 +63,7 @@ export const missions: Mission[] = [
     date: "2018-02-06",
     agency: "SpaceX",
     description: "Falcon Heavy's maiden launch carried Elon Musk’s Tesla Roadster into a heliocentric orbit.",
-    image: "https://picsum.photos/seed/falconheavy/800/600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Successful_Falcon_Heavy_Launch_Today_%2840090461942%29.jpg",
     outcome: "Success",
   },
   {
@@ -71,7 +71,7 @@ export const missions: Mission[] = [
     date: "2020-05-30",
     agency: "SpaceX",
     description: "First crewed flight of the Crew Dragon spacecraft, returning human spaceflight capabilities to the US.",
-    image: "https://picsum.photos/seed/crewdragon/800/600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/SpaceX_Demo-2_Launch_%28NHQ202005300044%29.jpg/1200px-SpaceX_Demo-2_Launch_%28NHQ202005300044%29.jpg",
     outcome: "Success",
   },
   {
@@ -79,7 +79,7 @@ export const missions: Mission[] = [
     date: "2021-12-25",
     agency: "NASA",
     description: "The successor to Hubble, designed to see the first galaxies and stars forming in the early universe.",
-    image: "https://picsum.photos/seed/jwst/800/600",
+    image: "https://science.nasa.gov/wp-content/uploads/2023/06/jwst-spacecraftpotentialtargetsmontageflip-1200px-4-jpg.webp",
     outcome: "Ongoing",
   },
   {
@@ -87,7 +87,7 @@ export const missions: Mission[] = [
     date: "2023-07-14",
     agency: "ISRO",
     description: "India’s third lunar mission, which successfully landed on the Moon’s south pole.",
-    image: "https://picsum.photos/seed/chandrayaan3/800/600",
+    image: "https://images1.wionews.com/images/wion/original/2023/7/6/1688632268749_F0VBRoJXwAQ7MyA.jpg?w=900&h=1600",
     outcome: "Success",
   },
   {
@@ -95,7 +95,7 @@ export const missions: Mission[] = [
     date: "2024-03-14",
     agency: "SpaceX",
     description: "Third integrated flight test of the Starship vehicle, achieved orbital velocity before being lost on reentry.",
-    image: "https://picsum.photos/seed/starship/800/600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Starship_Booster_Return_on_Final_Approach_%2854063904149%29.jpg",
     outcome: "Partial Success",
   }
 ];
