@@ -7,7 +7,7 @@ export const missions: Mission[] = [
     date: "1969-07-16",
     agency: "NASA",
     description: "First manned Moon landing. Neil Armstrong and Buzz Aldrin became the first humans to walk on the lunar surface.",
-    image: "https://picsum.photos/seed/apollo11/800/600",
+    image: "https://ychef.files.bbci.co.uk/1280x720/p07gz5td.jpg/800/600",
     outcome: "Success",
   },
   {
