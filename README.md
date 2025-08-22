@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌌 CosmosChronicle – Interactive Space Mission Timeline  
 
-# Run and deploy your AI Studio app
+> **Explore humanity’s journey to the stars.**  
+A 3D interactive timeline of **ISRO, NASA, and SpaceX missions** – built with a hypermodern dark theme, sleek minimal UI, and subtle rocket animations.  
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1I2zBhYz5T6e5_bailaWghnO7U9uscdlG
+## ✨ Features  
 
-## Run Locally
+✅ **3D Timeline View** – Scroll through history with a sleek horizontal timeline.  
+✅ **Mission Popups** – Click on any mission to reveal details, images, and outcomes.  
+✅ **Rocket Animations** – Subtle launch animation when you explore a mission 🚀.  
+✅ **Pitch-Black Theme** – Hypermodern UI with retro-futuristic white text.  
+✅ **Responsive Design** – Fully functional on desktop and mobile.  
+✅ **Data-Driven** – Missions loaded from a simple `missions.json` file.  
 
-**Prerequisites:**  Node.js
+---
 
+## 🎥 Demo Preview  
+*(Add screenshots or a short GIF here once deployed)*  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛰️ Mission Data Structure  
+
+All mission details are stored in `missions.json`. Example:  
+
+```json
+[
+  {
+    "name": "Chandrayaan-3",
+    "date": "2023-07-14",
+    "agency": "ISRO",
+    "description": "India’s third lunar mission, successfully landed on the Moon’s south pole.",
+    "image": "/images/chandrayaan3.jpg"
+  },
+  {
+    "name": "Apollo 11",
+    "date": "1969-07-16",
+    "agency": "NASA",
+    "description": "First manned Moon landing. Neil Armstrong became the first human to walk on the Moon.",
+    "image": "/images/apollo11.jpg"
+  }
+]
